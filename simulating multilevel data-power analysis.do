@@ -47,7 +47,7 @@ program mlsim, rclass
 					   `age' `minority' || `cid':
   test 1.`pet'
   return scalar pv = r(p)
-end
+  end
 
 
 
